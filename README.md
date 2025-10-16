@@ -1,4 +1,4 @@
-## CCNA-prep-course
+## ccna
 
 - [Section 1: TCP/IP Networking Model]()
 - [Section 2: Cisco Switching Infrastructure]()
