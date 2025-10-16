@@ -40,6 +40,6 @@
 - [IP Default Gateway]()
 - [Multilayer Switching]()
 - [Student Practice Lab 1-15]()
-- [Router on a Stick]
+- [Router on a Stick]()
 - [Student Practice Lab 1-16]()
 - [Cisco Physical Ports]()
